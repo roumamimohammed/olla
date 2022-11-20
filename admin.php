@@ -1,0 +1,181 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+   <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+   <link rel="stylesheet" href="css/bootstrap.css">
+    <script defer src="/bootstrap-5.2.2-dist/js/bootstrap.js" defer></script>
+</head>
+<body>
+  <nav>
+    <div><a href="#"><img src="images/768px-Magicdelivery_gaming_logo.svg.png" alt=""></a></div>
+    <div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+           
+        </ul>
+        
+    </div>
+    <div class="divlog" ><a class="login" href="#">login</a> <a class="login" href="#">Signup</a></div>
+  </nav>  
+  <section class="container2">
+   <div style="width: 400px ;">
+    <h1 class="log2"  style="font-size: 80px; color:rgb(255, 255, 255);">Playtech</h1>
+    <h3 style="font-size: 20px; color:rgb(255, 255, 255);padding-left: 30%;padding-bottom: 10%;" >No Game no Life</h3>
+    <!-- <p style="color: rgb(255, 255, 255);">Une gamme de produits désigne un ensemble de produits ou services d'une même catégorie proposés aux clients par une marque ou par une entreprise. Elle constitue une offre qui se décline généralement en lignes ou familles de produits, elles-mêmes composées de différents produits <br> <br></p>
+    -->
+    <!-- <p class="log" style="color:rgb(0, 0, 0) ;">.</p><p class="log" style="color:rgb(0, 0, 0) ;">.</p> <p class="log" style="color:rgb(0, 0, 0) ;">.</p>  -->
+     <div class="mom"><a class="logi" href="#">LOGIN NOW</a>
+      
+    </div>
+  </div>
+
+   <div>
+   <img style="width: 100%; height: auto;" src="images/Dualsense-PS5-2-removebg-preview.png" alt=""></div>
+  
+  </section>
+  <section>
+   <DIv class="btnn">
+    <div class="divlogg" ><a class="loginn" href="#">Setup</a> <a class="loginn1" href="#">Console</a><a class="loginn2" href="#">Items</a></div>
+</DIv>
+    <div class="containerz">
+     
+     <div class="box">
+      <div><img style="width: 160px;height: 150px;" src="images/DESKTOP-PC-GAMER-MAG-CODEX-5-I7-11TH-RTX-3070-MSI.png" alt=""></div>
+      <div><span class="show">8000DH</span></div>
+     </div>
+     <div class="box1">
+        <div><img style="width: 160px;height: 150px;" src="images/15870086065413.webp" alt=""></div>
+        <div><span class="show">9000DH</span></div>
+       </div>
+         
+     <div class="box">
+       <div><img style="width: 120px ;height: 150px;" src="images/console-right_@1x.webp" alt=""></div>
+       <div><span class="show">900DH</span></div>
+     </div>
+     <div class="box1">
+        <div><img style="width: 120px ;height: 150px;" src="images/554-5543580_xbox-one-png-xbox-one-x-scorpio-edition.png" alt=""></div>
+        <div><span class="show">XBOX 1</span></div>
+       </div>
+       <div class="box">
+        <div><img style="width: 120px ;height: 150px;" src="images/74bwr5adyb-nox_hummer_nova_specs.webp" alt=""></div>
+        <div><span class="show">1000DH</span></div>
+       </div>
+       <div class="box">
+          <div><img style="width: 160px;height: 150px;" src="images/DESKTOP-PC-GAMER-MAG-CODEX-5-I7-11TH-RTX-3070-MSI.png" alt=""></div>
+          <div><span class="show">900DH</span></div>
+         </div>
+         <div class="box1">
+           <div><img style="width: 120px ;height: 150px;" src="images/6458565.png" alt=""></div>
+           <div><span class="show">70000DH</span></div>
+         </div>
+         <div class="box">
+           <div><img style="width: 120px ;height: 150px;" src="images/console-right_@1x.webp" alt=""></div>
+           <div><span class="show">900DH</span></div>
+         </div>
+        
+         <div class="box0">
+          <div><img style="width: 120px ;height: 150px;" src="images/74bwr5adyb-nox_hummer_nova_specs.webp" alt=""></div>
+          <div><span class="show">10000DH</span></div>
+         </div> <div class="box">
+          <div><img style="width: 160px;height: 150px;" src="images/DESKTOP-PC-GAMER-MAG-CODEX-5-I7-11TH-RTX-3070-MSI.png" alt=""></div>
+          <div><span class="show">9000DH</span></div>
+         </div>
+         
+         <div class="box">
+           <div><img style="width: 120px ;height: 150px;" src="images/console-right_@1x.webp" alt=""></div>
+           <div><span class="show">900DH</span></div>
+         </div>
+        
+         <div class="box0">
+          <div><img style="width: 120px ;height: 150px;" src="images/74bwr5adyb-nox_hummer_nova_specs.webp" alt=""></div>
+          <div><span class="show">10000DH</span></div>
+         </div>
+     <div class="box">
+      <div><img style="width: 120px ;height: 150px;" src="images/74bwr5adyb-nox_hummer_nova_specs.webp" alt=""></div>
+      <div><span class="show">1000DH</span></div>
+     </div>
+     <div class="box">
+        <div><img style="width: 160px;height: 150px;" src="images/DESKTOP-PC-GAMER-MAG-CODEX-5-I7-11TH-RTX-3070-MSI.png" alt=""></div>
+        <div><span class="show">900DH</span></div>
+       </div>
+       <div class="box1">
+         <div><img style="width: 120px ;height: 150px;" src="images/6458565.png" alt=""></div>
+         <div><span class="show">70000DH</span></div>
+       </div>
+       <div class="box0">
+         <div><img style="width: 120px ;height: 150px;" src="images/console-right_@1x.webp" alt=""></div>
+         <div><span class="show">900DH</span></div>
+       </div>
+      
+       <div class="box">
+        <div><img style="width: 120px ;height: 150px;" src="images/74bwr5adyb-nox_hummer_nova_specs.webp" alt=""></div>
+        <div><span class="show">10000DH</span></div>
+       </div> <div class="box">
+        <div><img style="width: 160px;height: 150px;" src="images/DESKTOP-PC-GAMER-MAG-CODEX-5-I7-11TH-RTX-3070-MSI.png" alt=""></div>
+        <div><span class="show">9000DH</span></div>
+       </div>
+       
+       <div class="box0">
+         <div><img style="width: 120px ;height: 150px;" src="images/console-right_@1x.webp" alt=""></div>
+         <div><span class="show">900DH</span></div>
+       </div>
+      
+       <div class="box">
+        <div><img style="width: 120px ;height: 150px;" src="images/74bwr5adyb-nox_hummer_nova_specs.webp" alt=""></div>
+        <div><span class="show">10000DH</span></div>
+       </div>
+    </div>   
+ </section>
+ 
+   <section>
+   
+  
+    <h1 class="log2"  style="font-size: 40px; color:rgb(255, 255, 255);">Store Brands</h1><div class="container4">
+     <img class="MM" style="width: 150px;height: 150px;" src="images/ea-symbole.jpg" alt="">
+     <img class="MM" style="width: 150px ;height: 150px;" src="images/amd-logo-amd-letter-amd-letter-logo-design-initials-amd-logo-linked-with-circle-and-uppercase-monogram-logo-amd-typography-for-technology-business-and-real-estate-brand-vector.jpg" alt="">
+     <img class="MM" style="width: 150px ;height: 150px;" src="images/badc4ca034b41237d814368fe473eed1.png" alt="">
+     <img class="MM" style="width: 150px ;height: 150px;" src="images/modele-logo-scorpion-creatif-dessine-main_23-2149193540.webp" alt="">
+     <img class="MM" style="width: 150px ;height: 150px;" src="images/xbox-logo-cover.jpg" alt=""></div>
+      
+       
+ </section>
+  <footer class="footer">
+    <div class="first">
+      <a href="#"><img class="logo" src="images/768px-Magicdelivery_gaming_logo.svg.png" alt=""></a>
+         <span>Follow us:</span> 
+      <div class="social">
+        <a href="#"><img style="width: 70%;padding: 2%; height: auto;" src="images/linkedin.png" alt="insta"></a>
+        <a href=""><img style="width: 70%;padding: 2%; height: auto;" src="images/insta.png" alt="linkedin"></a>
+        <a href=""><img style="width: 70%;padding: 2%;height: auto;" src="images/twitter.png" alt="twitter"></a>
+      </div>   
+      
+    </div>
+    <div class="second">
+      <span>contact us :</span>
+      <div class="contact">
+      <p style="color:rgb(0, 109, 139) ;">Phone : 0649239990</p>
+      <p style="color:rgb(0, 109, 139) ;">Email : playtech@gmail.com</p>
+      </div>
+    </div>
+    <div class="therd">
+      <span >Categories</span>
+      <p style="color:rgb(0, 109, 139) ;"> war game</p>
+      <p style="color:rgb(0, 109, 139) ;"> soocer game</p>
+      <p style="color:rgb(0, 109, 139) ;"> racing game</p>
+    </div>
+    <div class="copyr">
+      <hr>
+      <span>©copyright 2023</span>
+    </div>
+  </footer>
+</body>
+</html>
